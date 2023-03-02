@@ -1,0 +1,58 @@
+/*
+==userstyle==
+@version 1.0.0
+@namespace Steven
+@name GitHub
+==/userstyle==
+*/
+@-moz-document domain("github.com") {
+   /* 2022-11-11 */
+   #repos-sticky-header {
+      position: static
+   }
+   /* 2022-02-19 */
+   .col-md-3 {
+      width: 22%
+   }
+   /* 2022-02-18 */
+   .col-md-9 {
+      width: 78%
+   }
+   /* 2022-02-17 */
+   .highlight td {
+      font-size: 1em !important
+   }
+   /* 2022-01-29 */
+   .blob-code-inner {
+      white-space: pre !important
+   }
+   /* 2022-01-27 */
+   .Header {
+      padding: 6px !important
+   }
+   /* 2022-01-24 */
+   .comment-body pre {
+      font-size: 1em !important
+   }
+   /* 2022-01-23 */
+   body {
+      font-family: Arial !important
+   }
+   /* 2022-01-22 */
+   .markdown-body {
+      font-family: Arial !important
+   }
+   /* 2022-01-21 */
+   .ContributionCalendar-day[data-level="1"] {
+      fill: hsl(210, 100%, 80%) !important
+   }
+   .ContributionCalendar-day[data-level="2"] {
+      fill: hsl(100, 70%, 60%) !important
+   }
+   .ContributionCalendar-day[data-level="3"] {
+      fill: hsl(50, 80%, 60%) !important
+   }
+   .ContributionCalendar-day[data-level="4"] {
+      fill: hsl(10, 80%, 50%) !important
+   }
+}

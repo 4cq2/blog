@@ -1,0 +1,13 @@
+/*
+==userstyle==
+@version 2021.11.29
+@namespace Steven
+@name Google
+==/userstyle==
+*/
+@-moz-document domain("google.com") {
+   /* 2022-02-23 */
+   #searchform {
+      position: absolute !important
+   }
+}

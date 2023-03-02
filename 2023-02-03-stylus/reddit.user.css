@@ -1,0 +1,32 @@
+/*
+==userstyle==
+@version 2021.12.03
+@namespace Steven
+@name Reddit
+==/userstyle==
+*/
+@-moz-document domain("reddit.com") {
+   /* 2022-03-13 */
+   .arrow {
+      visibility: hidden !important;
+   }
+   /* 2022-03-11 */
+   .md p {
+      margin-bottom: 1rem !important;
+   }
+   /* 2022-03-07 redd.it/t8avha */
+   .midcol {
+      display: block !important;
+      height: 3rem !important;
+   }
+   /* 2022-03-01 */
+   .nestedlisting > div > div.midcol {
+      background: blue !important;
+   }
+   .nestedlisting > div > div > div > div > div.midcol {
+      background: green !important;
+   }
+   .nestedlisting > div > div > div > div > div > div > div > div.midcol {
+      background: orange !important;
+   }
+}

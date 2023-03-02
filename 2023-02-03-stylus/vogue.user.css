@@ -1,0 +1,12 @@
+/*
+==userstyle==
+@version 2023.2.5
+@namespace Steven
+@name Vogue
+==/userstyle==
+*/
+@-moz-document domain("vogue.com") {
+   img {
+      pointer-events: auto
+   }
+}

@@ -1,0 +1,18 @@
+/*
+==userstyle==
+@name Stack Exchange
+@namespace Steven
+@version 1.0.0
+==/userstyle==
+*/
+@-moz-document domain("stackexchange.com") {
+   /* 2022-03-30 */
+   .ps-fixed {
+      position: absolute !important
+   }
+   /* 2022-03-20 */
+   a[href^="/"]:visited,
+   a[href^="http"]:visited {
+      color: purple !important
+   }
+}
