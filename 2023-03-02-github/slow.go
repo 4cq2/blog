@@ -14,7 +14,6 @@ var possibles = []username{
 "i0y",
 "i16",
 "i1i",
-"i1v",
 "i24",
 "i2z",
 "i32",
