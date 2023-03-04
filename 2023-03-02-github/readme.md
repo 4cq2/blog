@@ -2,10 +2,6 @@
 
 First create an alias:
 
-~~~
-rqwwof@riseup.net
-~~~
-
 https://account.riseup.net/mail/aliases
 
 then set location:
