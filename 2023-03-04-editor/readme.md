@@ -32,4 +32,4 @@ insert = "bar"
 
 ## micro
 
-https://github.com/zyedidia/micro
+https://github.com/zyedidia/micro/issues/2767
