@@ -9,10 +9,14 @@ then set location:
 
 Ashburn, VA
 
-then in private window, sign up to GitHub:
+then in private window, determine GitHub username:
+
+~~~
+54gs@riseup.net
+~~~
 
 https://github.com/signup
 
-First create an alias:
+then create an alias:
 
 https://account.riseup.net/mail/aliases
